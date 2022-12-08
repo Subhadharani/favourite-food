@@ -1,0 +1,10 @@
+body{
+  background-image:url("https://a.storyblok.com/f/67418/1920x1280/166659692b/ella-olsson-opbjwbccaeo-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  color:black;
+  padding: 150px;
+}
